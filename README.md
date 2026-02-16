@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Swift-5.9-orange.svg" alt="Swift 5.9">
   <img src="https://img.shields.io/badge/SwiftUI-✓-green.svg" alt="SwiftUI">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
-  <img src="https://img.shields.io/github/v/release/yourusername/vhscapture" alt="Release">
+  <img src="https://img.shields.io/github/v/release/fleton1/vhscapture" alt="Release">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ### Download Pre-built Release
 
-1. Download the latest `.dmg` file from [Releases](https://github.com/yourusername/vhscapture/releases)
+1. Download the latest `.dmg` file from [Releases](https://github.com/fleton1/vhscapture/releases)
 2. Open the DMG and drag **VHS Capture** to your Applications folder
 3. Launch from Applications or Spotlight
 4. Grant camera and microphone permissions when prompted
@@ -56,7 +56,7 @@ See the [Building](#building-the-project) section below.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vhscapture.git
+git clone https://github.com/fleton1/vhscapture.git
 cd vhscapture
 
 # Build the app (requires Xcode project setup first - see SETUP.md)
@@ -288,5 +288,5 @@ Built with Swift, SwiftUI, and AVFoundation for macOS 13+.
 ## Support
 
 - **Documentation**: [README.md](README.md), [SETUP.md](SETUP.md), [QUICKSTART.md](QUICKSTART.md)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/vhscapture/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/vhscapture/discussions)
+- **Issues**: [GitHub Issues](https://github.com/fleton1/vhscapture/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/fleton1/vhscapture/discussions)
